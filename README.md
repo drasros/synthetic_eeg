@@ -15,7 +15,7 @@ The paper ['Four-sphere head model for EEG signals revisited'](https://www.biorx
 
 The article linked above provides [code](https://github.com/Neuroinflab/fourspheremodel) for one source and one electrode. This repository generalizes to n_s sources and n_e electrodes placed at specified positions. `mix_mat.py` contains the tools for calculating mixing matrices. 
 
-!(sources_and_electrodes.png)
+![](sources_and_electrodes.png)
 
 ## Comparison to original code
 
